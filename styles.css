@@ -1,0 +1,83 @@
+body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            color: rgb(32, 186, 181);
+        }
+        h1 {
+            font-family: 'Courier New', Courier, monospace;
+            color: palevioletred;
+        }
+         h2 {
+            color: #333;
+         }
+        a {
+            color: purple;
+            text-decoration: none;
+        }
+    a:hover {
+            text-decoration: underline;
+            font-weight: bold;
+
+        }
+    a:visited {
+            color: darkblue;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+        .homebg {
+            background-color: rgb(237, 237, 255);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .bold {
+            font-weight: bold;
+            color: rgb(32, 186, 181);
+        }
+    .box1 {
+            background-color: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+     .box1 h2 {
+            color: rgb(32, 186, 181);
+        }
+     .box1 p {
+            font-size: 16px;
+    }
+     .box2 {
+            background-color: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+     .box2 h2 {
+            color: rgb(32, 186, 181);
+        }
+     .box2 p {
+            font-size: 16px;
+        }
+            
+    .box3 {
+            background-color: rgb(255, 255, 255);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+     .box3 h2 {
+            color: rgb(32, 186, 181);
+        }
+     .box3 p {
+            font-size: 16px;
+        }
